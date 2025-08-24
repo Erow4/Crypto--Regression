@@ -1,4 +1,4 @@
-# Crypto--Regression
+# Crypto Regression Project
 
 Built a crypto price prediction tool that uses linear regression to estimate the next price of Bitcoin from the past 30 days of historical market data, pulled via the CoinGecko web API. Implemented data cleaning, feature engineering, and model training in Python (pandas, scikit-learn), and automated outputs in JSON format for integration with other applications.
 
